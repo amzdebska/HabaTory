@@ -1,0 +1,6 @@
+```plantuml
+@startuml
+:Aktor:
+@enduml
+
+```
